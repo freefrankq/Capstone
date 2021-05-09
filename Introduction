@@ -1,0 +1,11 @@
+# Which city in the US and Canada would be your best choice of enjoying Chinese foods? 
+
+*Data Science Capstone*
+
+## Introduction 
+
+If a tourist traveling in the US and Canada and want to find a city which offers abundance of Chinese restaurants and foods. As such, you will need to find a city with a high density of Chinese restaurants. As such, we would like to analyze the locations of Chinese restaurants in the major american and canadian cities. 
+
+## Data section 
+
+I will use the FourSquare API to collect data about locations of Chinese restaurants in 5 major US cities which are: New York, NY, San Francisco, CA, Los Angeles, CA, Toronto, ON and Vancouver, BC. These are the most populated and attractive american and canadian cities. 
